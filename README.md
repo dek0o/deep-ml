@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**7** solved · 7 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [L2 Normalization Along an Axis](https://www.deep-ml.com/problems/1022) | easy | 2026-11-06 | [solution](problems/1022-l2-normalization-along-an-axis) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-11-06 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-06 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-11-06 | [solution](problems/0090-bm25-ranking) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-11-06 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-06 | [solution](problems/0009-matrix-times-matrix) |
