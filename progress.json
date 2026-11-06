@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-11-06T14:24:13.097Z",
+  "items": {
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-11-06T08:22:14.456Z",
+      "last_pushed_at": "2026-11-06T08:22:14.456Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-11-06T08:59:15.741Z",
+      "last_pushed_at": "2026-11-06T08:59:15.741Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:1022": {
+      "kind": "problem",
+      "id": "1022",
+      "title": "L2 Normalization Along an Axis",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1022",
+      "path": "problems/1022-l2-normalization-along-an-axis",
+      "first_solved_at": "2026-11-06T09:34:31.822Z",
+      "last_pushed_at": "2026-11-06T09:34:31.822Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2026-11-06T12:27:09.744Z",
+      "last_pushed_at": "2026-11-06T12:27:09.744Z",
+      "language": "python",
+      "lines": 38
+    },
+    "problem:90": {
+      "kind": "problem",
+      "id": "90",
+      "title": "BM25 Ranking ",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/90",
+      "path": "problems/0090-bm25-ranking",
+      "first_solved_at": "2026-11-06T13:01:53.142Z",
+      "last_pushed_at": "2026-11-06T13:01:53.142Z",
+      "language": "python",
+      "lines": 16
+    }
+  }
+}
