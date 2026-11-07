@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-06 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-06 | [solution](problems/0002-transpose-of-a-matrix) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-11-06 | [solution](problems/0090-bm25-ranking) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-11-07 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-11-06 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-11-06 | [solution](problems/0009-matrix-times-matrix) |
 
