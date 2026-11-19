@@ -6,7 +6,7 @@ def fit(X_train: np.ndarray) -> tuple[np.ndarray, np.ndarray]:
     sigma = np.array([])
     for col in range(cols):
         mean = np.append(mean, np.mean(X_train[:, col]))
-        s = (np.sqrt(np.mean((X_train[:, col] - mean[col])**2)))
+        s = np.std(X_train[:, col])
         sigma = np.append(sigma, s if s > 0 else 1)
     return mean, sigma
 
